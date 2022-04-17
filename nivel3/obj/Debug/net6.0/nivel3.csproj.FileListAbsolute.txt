@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\lista de exercicios\nivel3\bin\Debug\net6.0\nivel3.exe
+C:\Users\User\source\repos\lista de exercicios\nivel3\bin\Debug\net6.0\nivel3.deps.json
+C:\Users\User\source\repos\lista de exercicios\nivel3\bin\Debug\net6.0\nivel3.runtimeconfig.json
+C:\Users\User\source\repos\lista de exercicios\nivel3\bin\Debug\net6.0\nivel3.dll
+C:\Users\User\source\repos\lista de exercicios\nivel3\bin\Debug\net6.0\nivel3.pdb
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.AssemblyInfo.cs
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.dll
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\refint\nivel3.dll
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.pdb
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\nivel3.genruntimeconfig.cache
+C:\Users\User\source\repos\lista de exercicios\nivel3\obj\Debug\net6.0\ref\nivel3.dll
